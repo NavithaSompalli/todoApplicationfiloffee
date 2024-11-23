@@ -67,4 +67,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) 
+
+
+# Todo Application
+
+A responsive Todo application built with React. Features:
+- Add, edit, view, and delete tasks.
+- Filters: by status and due date.
+- Data persistence with localStorage.
+- Responsive design.
+
+## Setup
+1. Clone the repo: `git clone https://github.com/NavithaSompalli/todoApplicationfiloffee.git`
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
+
+## Screenshots
+
+![alt text](image.png)
+
